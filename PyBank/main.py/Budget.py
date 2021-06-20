@@ -13,14 +13,14 @@ with open(csvpath) as csvfile:
 
     for row in csvreader:
         print(row)
-        #Create lists and print
-dates=[]
-Prof_loss=[]
-for row in csvreader:
-    dates.append(row[0])
-    Prof_loss.append(float(row[1]))
-print(dates)
-print(Prof_loss) 
+#         #Create lists and print
+# dates=[]
+# Prof_loss=[]
+# for row in csvreader:
+#     dates.append(row[0])
+#     Prof_loss.append(float(row[1]))
+# print(dates)
+# print(Prof_loss) 
 
 # #Total Months
 # print(len(dates))
