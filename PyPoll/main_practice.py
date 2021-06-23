@@ -47,7 +47,18 @@ for key, value in candidates.items():
     if value > winner_votes:
         winner_votes = value 
         winner_name = key 
+        winner_pct = candidates_pct[key]
 print(winner_name, winner_votes, winner_pct)
+
+# #analysis print
+# print("Election Results")
+# print("---------------------")
+# print(f"Total Votes: {total_votes}")
+# print("---------------------")
+# for w in sorted(candidates, key=candidates.get, reverse=True):
+#     print(f"{w}: {candidates_pct[w]}% ({candidates[w]})"
+
+
 
 
 
