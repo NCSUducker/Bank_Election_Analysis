@@ -1,7 +1,7 @@
 # python-challenge
 Python Project
 
-##PyProjects
+## PyProjects
 
 Welcome to python-challenge! In this project there are two parts, PyBank and PyPoll, that utilizes Python to create scripts to analyze the provided data. 
 
