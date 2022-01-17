@@ -1,4 +1,4 @@
-# python-challenge
+# Bank and Election Analysis with Python
 Python Project
 
 ## PyProjects
